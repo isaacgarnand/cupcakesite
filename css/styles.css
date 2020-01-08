@@ -1,0 +1,10 @@
+h3.flashy {
+  color: red;
+  font-style: italic;
+}
+
+li.best {
+  font-family: cursive;
+  font-weight: bold;
+  text-shadow: rgb(236, 179, 236) 1px 0 10px;
+}
