@@ -8,3 +8,8 @@ li.best {
   font-weight: bold;
   text-shadow: rgb(236, 179, 236) 1px 0 10px;
 }
+
+.column {
+  float: left;
+  width: 50%;
+}
